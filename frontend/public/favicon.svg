@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <linearGradient id="techGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0052FF" />
+      <stop offset="100%" stop-color="#00C9FF" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="#0A0A10" rx="40"/>
+  <circle cx="200" cy="200" r="120" fill="none" stroke="url(#techGrad)" stroke-width="24" stroke-dasharray="45 25" />
+  <circle cx="200" cy="200" r="65" fill="#0052FF" />
+  <line x1="200" y1="135" x2="200" y2="80" stroke="#00C9FF" stroke-width="14" stroke-linecap="round"/>
+  <line x1="200" y1="265" x2="200" y2="320" stroke="#00C9FF" stroke-width="14" stroke-linecap="round"/>
+  <line x1="135" y1="200" x2="80" y2="200" stroke="#0052FF" stroke-width="14" stroke-linecap="round"/>
+  <line x1="265" y1="200" x2="320" y2="200" stroke="#0052FF" stroke-width="14" stroke-linecap="round"/>
+  <path d="M175 205 L195 225 L235 175" fill="none" stroke="#0A0A10" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
