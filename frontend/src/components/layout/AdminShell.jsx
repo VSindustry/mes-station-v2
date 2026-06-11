@@ -44,7 +44,7 @@ export default function AdminShell() {
             {/* Admin only routes */}
             <Route path="/projects" element={<ManageProjects />} />
             <Route path="/register-leader" element={<RegisterLeader />} />
-            <Route path="/print-qr" element={<PrintQR />} />
+            <Route path="/print-qr" element={<PrintQr/>} />
             <Route path="/approvals" element={<Approvals />} />
             <Route path="/export" element={<Export />} />
             <Route path="/audit" element={<AuditLog />} />
